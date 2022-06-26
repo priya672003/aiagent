@@ -40,6 +40,12 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+
+### DEVELOPED BY
+
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
 ```python3
 import random
 import time
